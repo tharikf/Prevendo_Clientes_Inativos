@@ -7,6 +7,6 @@ Neste projeto pretendemos prever o status do cliente dividido em duas classes, a
 Os algoritmos e os resultados encontrados estão apresentados na tabela abaixo.
 
 <p align="center">
-  <img src="score_algoritmos.jpg" width="350" title="hover text">
+  <img src="scores_algoritmos.jpg" width="350" title="hover text">
 </p>
 
